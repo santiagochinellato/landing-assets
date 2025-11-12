@@ -1,0 +1,12 @@
+# Archivos temporales
+*.tmp
+*.bak
+*~
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de video sin comprimir (opcional)
+# *.raw
+# *.avi
